@@ -3,6 +3,11 @@
 ## Contato 💬
 **Linkedin: https://www.linkedin.com/in/ebilieri**
 <br>
+
+# Stack
+
+
+
 **Email:    ebilieri@hotmail.com**
 <!--
 **ebilieri/ebilieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
