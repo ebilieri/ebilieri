@@ -6,8 +6,9 @@
 **Email:    ebilieri@hotmail.com**
 
 # Stack
-<p align="center">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/NET_Core_Logo.svg" width="100" title=">.Net Core>
+<br>
+<p align="left">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/NET_Core_Logo.svg" width="100" title=".Net Core">
 </p>
 
 <br>
