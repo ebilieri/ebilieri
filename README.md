@@ -3,12 +3,15 @@
 ## Contato 💬
 **Linkedin: https://www.linkedin.com/in/ebilieri**
 <br>
+**Email:    ebilieri@hotmail.com**
 
 # Stack
+<br>
+<p align="left">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/NET_Core_Logo.svg" width="100" title=".Net Core">
+</p>
 
-
-
-**Email:    ebilieri@hotmail.com**
+<br>
 <!--
 **ebilieri/ebilieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
