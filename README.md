@@ -1,4 +1,4 @@
-### Desenvolvedor Full-Stack 👋
+### 👋 Desenvolvedor Full-Stack .NET & Angular 👋
 
 ## Contato 💬
 **Linkedin: https://www.linkedin.com/in/ebilieri**
