@@ -27,7 +27,7 @@
 <p align="left">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/ms-sql-server.png" width="100" title="Microsoft SQL Server">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/mysql.png" width="100" title="MySQL" hspace="60">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/postgre-sql.png" width="100" title="PostgreSQL">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/postgresql-logo.png" width="100" title="PostgreSQL">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/DynamoDB.png" width="100" title="DynamoDB" hspace="60">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/mongodb-logo.png" width="100" title="MongoDB">
   
