@@ -46,6 +46,18 @@ I am Emerson Claudelino, I have been working for more than ten years with softwa
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/postman.jpg" width="50" title="POSTMAN" hspace="30">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/visual-studio-code-1.svg" width="30" title="Visual Studio Code">
 </p>
+
+## Other technologies
+<p align="left">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/xunit-logo.png" width="30" title="xUnit">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/fluent-assertion-logo.png" width="30" title="Fluent Assertions" hspace="30">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/bogus-logo.png" width="30" title="Bogus">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/docker-logo.png" width="30" title="Docker" hspace="30">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/css-logo.jpg" width="30" title="CSS">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/html5-logo.png" width="30" title="HTML 5" hspace="30">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/amazon-lambda-logo.png" width="30" title="Lambda">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/amazon-sqs-logo.png" width="30" title="SQS" hspace="30">
+</p>
 <!--
 **ebilieri/ebilieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
