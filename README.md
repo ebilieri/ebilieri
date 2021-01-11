@@ -37,7 +37,15 @@ I am Emerson Claudelino, I have been working for more than ten years with softwa
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/DynamoDB.png" width="30" title="DynamoDB" hspace="30">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/mongodb-logo.png" width="30" title="MongoDB">
 </p>
-<br>
+
+## Tools
+<p align="left">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/visual-studio-logo.jpg" width="30" title="Microsoft Visual Studio">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/apicurio.png" width="50" title="APICURIO" hspace="30">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/Swagger-logo.png" width="30" title="Swagger">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/postman.jpg" width="50" title="POSTMAN" hspace="30">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/visual-studio-code-1.svg" width="30" title="Visual Studio Code">
+</p>
 <!--
 **ebilieri/ebilieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
