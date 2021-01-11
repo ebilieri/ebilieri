@@ -15,7 +15,7 @@
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/ms-sql-server.png" width="100" title="Microsoft SQL Server">
 </p>
 <br>
-<br>
+
 # Languages
 <br>
 <p align="left">
