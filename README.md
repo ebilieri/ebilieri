@@ -41,9 +41,9 @@ I am Emerson Claudelino, I have been working for more than ten years with softwa
 ## Tools
 <p align="left">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/visual-studio-logo.jpg" width="30" title="Microsoft Visual Studio">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/apicurio.png" height="30" title="APICURIO" hspace="30">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/apicurio.png" width="50" title="APICURIO" hspace="30">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/Swagger-logo.png" width="30" title="Swagger">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/postman.jpg" heigth="30" title="POSTMAN" hspace="30">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/postman.jpg" width="50" title="POSTMAN" hspace="30">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/visual-studio-code-1.svg" width="30" title="Visual Studio Code">
 </p>
 <!--
