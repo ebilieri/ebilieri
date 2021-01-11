@@ -58,6 +58,9 @@ I am Emerson Claudelino, I have been working for more than ten years with softwa
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/amazon-lambda-logo.png" width="30" title="Lambda">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/amazon-sqs-logo.png" width="30" title="SQS" hspace="30">
 </p>
+<p align="center">
+    <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebilieri&layout=compact&hide=html&hide_border=true" alt="ebilieri" />
+</p>
 <!--
 **ebilieri/ebilieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
