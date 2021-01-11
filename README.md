@@ -10,6 +10,9 @@
 <p align="left">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/NET_Core_Logo.svg" width="100" title=".Net Core">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/Angular.png" width="100" title="Angular">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/DynamoDB.png" width="100" title="DynamoDB">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/mongodb-logo.png" width="100" title="MongoDB">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/ms-sql-server.png" width="100" title="Microsoft SQL Server">
 </p>
 
 <br>
