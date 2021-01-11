@@ -17,6 +17,8 @@
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/c%23.png" width="50" title="C#">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/python.png" width="50" title="Python" hspace="30">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/node-js.png" width="60" title="Node JS">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/javascript.png" width="60" title="JavaScript" hspace="30">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/typescript.png" width="60" title="TypeScript">
 </p>
 <br>
 
