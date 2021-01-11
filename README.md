@@ -13,7 +13,7 @@ I am Emerson Claudelino, I have been working for more than ten years with softwa
 
 ## Stack
 <p align="left">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/NET_Core_Logo.svg" width="30" title=".Net Core">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/net-core-logo.png" width="30" title=".Net Core">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/angular-logo.png" width="30" title="Angular" hspace="30">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/git-logo.png" width="30" title="GIT">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/azure-devops.png" width="30" title="Azeure DevOps" hspace="30">
@@ -22,18 +22,18 @@ I am Emerson Claudelino, I have been working for more than ten years with softwa
 
 ## Languages
 <p align="left">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/c%23.png" width="30" title="C#">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/csharp.png" width="30" title="C#">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/python.png" width="30" title="Python" hspace="30">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/node-js.png" width="30" title="Node JS">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/javascript.png" width="30" title="JavaScript" hspace="30">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/typescript-logo.svg" width="30" title="TypeScript">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/typescript-logo.png" width="30" title="TypeScript">
 </p>
 
 ## Databases
 <p align="left">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/ms-sql-server.png" width="30" title="Microsoft SQL Server">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/mysql.png" width="30" title="MySQL" hspace="30">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/postgresql-logo.png" width="30" title="PostgreSQL">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/postgresql.png" width="30" title="PostgreSQL">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/DynamoDB.png" width="30" title="DynamoDB" hspace="30">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/mongodb-logo.png" width="30" title="MongoDB">
 </p>
@@ -44,7 +44,7 @@ I am Emerson Claudelino, I have been working for more than ten years with softwa
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/apicurio.png" width="50" title="APICURIO" hspace="30">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/Swagger-logo.png" width="30" title="Swagger">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/postman.jpg" width="50" title="POSTMAN" hspace="30">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/visual-studio-code-1.svg" width="30" title="Visual Studio Code">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/visual-studio-code.png" width="30" title="Visual Studio Code">
 </p>
 
 ## Other technologies
@@ -57,6 +57,7 @@ I am Emerson Claudelino, I have been working for more than ten years with softwa
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/html5-logo.png" width="30" title="HTML 5" hspace="30">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/amazon-lambda-logo.png" width="30" title="Lambda">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/amazon-sqs-logo.png" width="30" title="SQS" hspace="30">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/bootstrap.png" width="30" title="BootStrap">
 </p>
 <p align="left">
     <img width="47%" style="padding: 0.3rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebilieri&layout=compact&hide=html&hide_border=true" alt="ebilieri" />
