@@ -1,6 +1,6 @@
-# 👋 Desenvolvedor Full-Stack .NET & Angular 👋
+# 👋 Full-Stack .NET & Angular Developer 👋
 
-# Contato 💬
+# Contact 💬
 **Linkedin: https://www.linkedin.com/in/ebilieri**
 <br>
 **Email:    ebilieri@hotmail.com**
@@ -14,7 +14,16 @@
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/mongodb-logo.png" width="100" title="MongoDB">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/ms-sql-server.png" width="100" title="Microsoft SQL Server">
 </p>
-
+<br>
+<br>
+# Languages
+<br>
+<p align="left">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/c%23.png" width="100" title="C#">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/python.png" width="100" title="Python">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/node-js.png" width="100" title="Node JS">
+</p>
+<br>
 <br>
 <!--
 **ebilieri/ebilieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
