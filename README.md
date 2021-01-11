@@ -9,6 +9,9 @@
 <p align="left">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/NET_Core_Logo.svg" width="50" title=".Net Core">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/angular-logo.png" width="50" title="Angular" hspace="30">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/git-logo.jpg" width="50" title="GIT">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/azure-devops.png" width="50" title="Azeure DevOps" hspace="30">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/rancher-containers.png" width="50" title="Rancher">
 </p>
 <br>
 
