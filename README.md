@@ -18,10 +18,10 @@
 
 # Languages
 <br>
-<p align="justify">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/c%23.png" width="100" title="C#">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/python.png" width="100" title="Python">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/node-js.png" width="100" title="Node JS">
+<p align="left">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/c%23.png" width="100" title="C#" hspace="10">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/python.png" width="100" title="Python" hspace="60">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/node-js.png" width="100" title="Node JS" hspace="60">
 </p>
 <br>
 <br>
