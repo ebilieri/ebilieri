@@ -1,6 +1,6 @@
-### 👋 Desenvolvedor Full-Stack .NET & Angular 👋
+# 👋 Desenvolvedor Full-Stack .NET & Angular 👋
 
-## Contato 💬
+# Contato 💬
 **Linkedin: https://www.linkedin.com/in/ebilieri**
 <br>
 **Email:    ebilieri@hotmail.com**
