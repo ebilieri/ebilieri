@@ -1,6 +1,12 @@
 ## 👋 Full-Stack .NET & Angular Developer 👋
 
+### About Me :pager:
+
+I am Emerson Claudelino, I have been working for more than ten years with software development using the Microsoft .NET platform with C # and VB.NET languages. I have experience in developing Windows Forms desktop applications, ASP.NET Web applications (Forms, MVC and Core) and RESTful Web APIs. Passion for systems development using Object Oriented Programming and SOLID.
+• Experience and experience in team work using agile methodologies (SCRUM, Agile Manifesto).
+
 ## Contact 💬
+
 **Linkedin: https://www.linkedin.com/in/ebilieri**
 <br>
 **Email:    ebilieri@hotmail.com**
