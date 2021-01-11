@@ -18,7 +18,7 @@
 
 # Languages
 <br>
-<p align="left">
+<p align="justify">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/c%23.png" width="100" title="C#">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/python.png" width="100" title="Python">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/node-js.png" width="100" title="Node JS">
