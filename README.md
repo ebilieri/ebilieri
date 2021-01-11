@@ -7,11 +7,11 @@
 
 ## Stack
 <p align="left">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/NET_Core_Logo.svg" width="40" title=".Net Core">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/angular-logo.png" width="40" title="Angular" hspace="30">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/git-logo.png" width="40" title="GIT">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/azure-devops.png" width="40" title="Azeure DevOps" hspace="30">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/rancher-containers.png" width="40" title="Rancher">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/NET_Core_Logo.svg" width="35" title=".Net Core">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/angular-logo.png" width="35" title="Angular" hspace="30">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/git-logo.png" width="35" title="GIT">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/azure-devops.png" width="35" title="Azeure DevOps" hspace="30">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/rancher-containers.png" width="35" title="Rancher">
 </p>
 <br>
 
