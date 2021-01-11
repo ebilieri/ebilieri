@@ -1,21 +1,21 @@
-# 👋 Full-Stack .NET & Angular Developer 👋
+## 👋 Full-Stack .NET & Angular Developer 👋
 
-# Contact 💬
+## Contact 💬
 **Linkedin: https://www.linkedin.com/in/ebilieri**
 <br>
 **Email:    ebilieri@hotmail.com**
 
-# Stack
+## Stack
 <p align="left">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/NET_Core_Logo.svg" width="50" title=".Net Core">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/angular-logo.png" width="50" title="Angular" hspace="30">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/git-logo.png" width="50" title="GIT">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/azure-devops.png" width="50" title="Azeure DevOps" hspace="30">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/rancher-containers.png" width="50" title="Rancher">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/NET_Core_Logo.svg" width="40" title=".Net Core">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/angular-logo.png" width="40" title="Angular" hspace="30">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/git-logo.png" width="40" title="GIT">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/azure-devops.png" width="40" title="Azeure DevOps" hspace="30">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/rancher-containers.png" width="40" title="Rancher">
 </p>
 <br>
 
-# Languages
+## Languages
 <p align="left">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/c%23.png" width="50" title="C#">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/python.png" width="50" title="Python" hspace="30">
@@ -25,7 +25,7 @@
 </p>
 <br>
 
-# Databases
+## Databases
 <p align="left">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/ms-sql-server.png" width="50" title="Microsoft SQL Server">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/mysql.png" width="50" title="MySQL" hspace="30">
