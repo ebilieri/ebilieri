@@ -8,8 +8,8 @@
 # Stack
 <br>
 <p align="left">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/NET_Core_Logo.svg" width="100" title=".Net Core">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/Angular.png" width="120" title="Angular" hspace="60">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/NET_Core_Logo.svg" width="50" title=".Net Core">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/Angular.png" width="50" title="Angular" hspace="30">
 </p>
 <br>
 
