@@ -6,31 +6,27 @@
 **Email:    ebilieri@hotmail.com**
 
 # Stack
-<br>
 <p align="left">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/NET_Core_Logo.svg" width="50" title=".Net Core">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/Angular.png" width="50" title="Angular" hspace="30">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/angular-logo.png" width="50" title="Angular" hspace="30">
 </p>
 <br>
 
 # Languages
-<br>
 <p align="left">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/c%23.png" width="100" title="C#">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/python.png" width="100" title="Python" hspace="60">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/node-js.png" width="130" title="Node JS">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/c%23.png" width="50" title="C#">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/python.png" width="50" title="Python" hspace="30">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/node-js.png" width="60" title="Node JS">
 </p>
 <br>
 
 # Databases
-<br>
 <p align="left">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/ms-sql-server.png" width="100" title="Microsoft SQL Server">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/mysql.png" width="100" title="MySQL" hspace="60">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/postgresql-logo.png" width="100" title="PostgreSQL">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/DynamoDB.png" width="100" title="DynamoDB" hspace="60">
-  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/mongodb-logo.png" width="100" title="MongoDB">
-  
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/ms-sql-server.png" width="50" title="Microsoft SQL Server">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/mysql.png" width="50" title="MySQL" hspace="30">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/postgresql-logo.png" width="50" title="PostgreSQL">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/DynamoDB.png" width="50" title="DynamoDB" hspace="30">
+  <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/mongodb-logo.png" width="50" title="MongoDB">
 </p>
 <br>
 <!--
