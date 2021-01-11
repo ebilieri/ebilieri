@@ -19,7 +19,6 @@ I am Emerson Claudelino, I have been working for more than ten years with softwa
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/azure-devops.png" width="30" title="Azeure DevOps" hspace="30">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/rancher-containers.png" width="30" title="Rancher">
 </p>
-<br>
 
 ## Languages
 <p align="left">
@@ -29,7 +28,6 @@ I am Emerson Claudelino, I have been working for more than ten years with softwa
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/javascript.png" width="30" title="JavaScript" hspace="30">
   <img src="https://github.com/ebilieri/ebilieri/blob/main/assets/typescript-logo.svg" width="30" title="TypeScript">
 </p>
-<br>
 
 ## Databases
 <p align="left">
