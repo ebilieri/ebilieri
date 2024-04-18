@@ -1,4 +1,4 @@
-## 👋 Full-Stack .NET & Angular Developer 👋
+## 👋 Back-end .NET/Python Developer 👋
 
 ### About Me :pager:
 
